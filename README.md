@@ -9,7 +9,6 @@ The core of the implementation is a Game loop, which refered from:
 
 
 ##Description:
-
   Players act as a ray and control it to dodge other rays in the universe.
   Control by LEFT, RIGHT, UP and DOWN arrows.
   
