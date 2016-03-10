@@ -1,4 +1,4 @@
-# -Ray
+# Ray
 
 ##Synopsis
   This is a junior game development using JAVA.  
