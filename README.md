@@ -1,4 +1,5 @@
 # Ray
+![Alt text](/game_ui.png?raw=true "Rays UI")
 
 ##Synopsis
   This is a junior game development using JAVA.  
