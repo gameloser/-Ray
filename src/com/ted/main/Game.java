@@ -43,7 +43,7 @@ public class Game extends Canvas implements Runnable{
 		this.addKeyListener(new KeyInput(handler));
 		this.addMouseListener(menu);
 		
-		new Window(WIDTH, HEIGHT,"Lelou的第一个游戏",this);
+		new Window(WIDTH, HEIGHT,"Rays",this);
 		
 		spawner = new Spawn(handler, hud);
 		
