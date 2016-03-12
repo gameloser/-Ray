@@ -105,7 +105,7 @@ public class Menu extends MouseAdapter{
 			
 			g.setFont(fnt);
 			g.setColor(Color.white);
-			g.drawString("X-ray", 240, 70);
+			g.drawString("Rays", 240, 70);
 		
 			g.setFont(fnt2);
 			g.drawRect(220, 130, 200, 64);
